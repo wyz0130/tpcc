@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="firebird">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/firebird/connector-api-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/firebird/jaybird-2.2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
